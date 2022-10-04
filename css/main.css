@@ -50,7 +50,7 @@ nav {
 
 /*Responsive*/
 
-@media screen and (max-width: 700px) {
+@media only screen and (max-width: 640px) {
     .menu1 a {
       display: block;
       width: 100%;

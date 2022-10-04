@@ -1,0 +1,32 @@
+.menu1 a {
+  display: block;
+  width: 100%;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.menu2 a {
+  display: block;
+  width: 100%;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.menu3 a {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  background: #e9ebed;
+  padding: 15px 0px;
+  margin: 5px 0px 0px 0px;
+  box-sizing: border-box;
+}
+
+.menu3 a:hover {
+  background: gray;
+  border-bottom: none;
+}
+
+nav {
+  margin: 40px 0px;
+}
