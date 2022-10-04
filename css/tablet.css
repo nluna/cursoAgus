@@ -1,0 +1,26 @@
+/*Responsive para tamaño tablet*/
+
+
+    .menu1 a {
+      display: block;
+      width: 100%;
+      text-align: center;
+    }
+
+    .menu2 a {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+
+    .menu3 a {
+        display: block;
+        width: 100%;
+        text-align: center;
+        background: #e9ebed;
+    }
+
+    nav{
+        margin: 40px 0px;
+    }
+
